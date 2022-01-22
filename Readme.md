@@ -24,14 +24,14 @@
  Apache Spark with Scala - Hands On with Big Data<br/>
 
  ## Course Content<br>
- Frame big data analysis problems as Apache Spark scripts<br/>
-Develop distributed code using the Scala programming language<br/>
-Optimize Spark jobs through partitioning, caching, and other techniques<br/>
-Build, deploy, and run Spark scripts on Hadoop clusters<br/>
-Process continual streams of data with Spark Streaming<br/>
-Transform structured data using SparkSQL, DataSets, and DataFrames<br/>
-Traverse and analyze graph structures using GraphX<br/>
-Analyze massive data set with Machine Learning on Spark<br/>
+ 1. Frame big data analysis problems as Apache Spark scripts<br/>
+2. Develop distributed code using the Scala programming language<br/>
+3. Optimize Spark jobs through partitioning, caching, and other techniques<br/>
+4. Build, deploy, and run Spark scripts on Hadoop clusters<br/>
+5. Process continual streams of data with Spark Streaming<br/>
+6. Transform structured data using SparkSQL, DataSets, and DataFrames<br/>
+7. Traverse and analyze graph structures using GraphX<br/>
+8. Analyze massive data set with Machine Learning on Spark<br/>
 
 
 <p align="right">(<a href="#top">back to top</a>)</p>
